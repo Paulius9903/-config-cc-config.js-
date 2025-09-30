@@ -1,3 +1,5 @@
+Fotografas AM
+
 Consent Manager Installation Instructions
 
 1. Extract the contents of this zip file
